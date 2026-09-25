@@ -1,0 +1,9 @@
+diff a/MyFile.txt b/MyFile.txt	(rejected hunks)
+@@ -1,2 +1,4 @@
+ Test
+-のののののの
+\ No newline at end of file
++のののののの
++
++ハハハハハ
+\ No newline at end of file
